@@ -3,17 +3,21 @@
 I am studying Electrical and Computer Engineering through the CU Boulder and Colorado Mesa University Engineering Partnership Program in Grand Junction, CO. I build embedded systems, FPGA designs, and data projects, and I enjoy circuits and hands-on work. I like turning ideas into working devices with Arduino, ESP32, DE10-Lite, C and C++, Python, and OpenCV.
 
 ## Skills and Tools
-- Languages:**
-![C]([https://img.shields.io/badge/Code-C-blue?logo=c](https://img.shields.io/badge/Code-C-blue?logo=c))  
-![C++]([https://img.shields.io/badge/Code-C++-blue?logo=cplusplus](https://img.shields.io/badge/Code-C++-blue?logo=cplusplus))  
-![Python]([https://img.shields.io/badge/Code-Python-yellow?logo=python](https://img.shields.io/badge/Code-Python-yellow?logo=python))  
-![Arduino]([https://img.shields.io/badge/Hardware-Arduino-00979D?logo=arduino&logoColor=white](https://img.shields.io/badge/Hardware-Arduino-00979D?logo=arduino&logoColor=white))  
-![Verilog]([https://img.shields.io/badge/HDL-Verilog-red](https://img.shields.io/badge/HDL-Verilog-red))  
-![MATLAB]([https://img.shields.io/badge/Tool-MATLAB-orange?logo=mathworks](https://img.shields.io/badge/Tool-MATLAB-orange?logo=mathworks))
-- Hardware: DE10-Lite FPGA board, ESP32 DevKit, Arduino Uno, common sensors, motor drivers
-- FPGA and tools: Intel Quartus Prime Lite, timing constraints basics, pin planner, ModelSim simulation
-- Data and computer vision: NumPy, OpenCV
-- Tooling: Git, GitHub, VS Code, Espressif IDE, Arduino
+**Languages:**  
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-B22222)
+![MATLAB](https://img.shields.io/badge/MATLAB-F37726?logo=mathworks&logoColor=white)
+
+**Hardware:** DE10-Lite FPGA board, ESP32 DevKit, Arduino Uno, common sensors, motor drivers  
+
+**FPGA and tools:** Intel Quartus Prime Lite, pin planner, basic timing constraints, ModelSim  
+
+**Data and computer vision:** NumPy, OpenCV  
+
+**Tooling:** Git, GitHub, VS Code, Espressif IDE, Arduino IDE
 
 ## Project Highlights
 - **Word Indexer** –reads a plain text file, tokenizes the text, sorts words alphabetically, and outputs a word-frequency list with counts.
