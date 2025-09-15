@@ -3,7 +3,7 @@
 I am studying Electrical and Computer Engineering through the CU Boulder and Colorado Mesa University Engineering Partnership Program in Grand Junction, CO. I build embedded systems, FPGA designs, and data projects, and I enjoy circuits and hands-on work. I like turning ideas into working devices with Arduino, ESP32, DE10-Lite, C and C++, Python, and OpenCV.
 
 ## Skills and Tools
-- Languages:
+- Languages:**
 ![C]([https://img.shields.io/badge/Code-C-blue?logo=c](https://img.shields.io/badge/Code-C-blue?logo=c))  
 ![C++]([https://img.shields.io/badge/Code-C++-blue?logo=cplusplus](https://img.shields.io/badge/Code-C++-blue?logo=cplusplus))  
 ![Python]([https://img.shields.io/badge/Code-Python-yellow?logo=python](https://img.shields.io/badge/Code-Python-yellow?logo=python))  
