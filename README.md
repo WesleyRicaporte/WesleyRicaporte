@@ -36,5 +36,4 @@ I am studying Electrical and Computer Engineering through the CU Boulder and Col
 
 ## Contact
 - Email: weri7581@colorado.edu
-- GitHub: https://github.com/WesleyRicaporte
 - LinkedIn: https://www.linkedin.com/in/wesley-ricaporte-157a24290/
