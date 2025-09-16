@@ -22,7 +22,7 @@ I am studying Electrical and Computer Engineering through the CU Boulder and Col
 ## Project Highlights
 - **Word Indexer** –reads a plain text file, tokenizes the text, sorts words alphabetically, and outputs a word-frequency list with counts.
 - **Low-noise ECG circuit design** – instrumentation front end and active filtering for clean ECG signals
-- **Computer Vision Toolkit ** - image manipulation using channel ops, color space tools, image embedding and shifts
+- **Computer Vision** - image manipulation using channel ops, color space tools, image embedding and shifts
 
 ## Project Links
 - Word Indexer: https://github.com/WesleyRicaporte/WRABFinal
@@ -32,7 +32,7 @@ I am studying Electrical and Computer Engineering through the CU Boulder and Col
 
 ## Coursework
 - Current: Microelectronics, Probability Theory, Programming Digital Systems, Computer Vision
-- Completed: Data Structures and Algorithms, Digital Logic, Embedded Systems, Signals and Systems
+- Completed: Data Structures and Algorithms, Digital Logic, Embedded Systems, Signals and Systems, Applications of Embedded
 
 ## Contact
 - Email: weri7581@colorado.edu
