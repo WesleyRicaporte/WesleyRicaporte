@@ -23,11 +23,13 @@ I am studying Electrical and Computer Engineering through the CU Boulder and Col
 - **Word Indexer** –reads a plain text file, tokenizes the text, sorts words alphabetically, and outputs a word-frequency list with counts.
 - **Low-noise ECG circuit design** – instrumentation front end and active filtering for clean ECG signals
 - **Computer Vision** - image manipulation using channel ops, color space tools, image embedding and shifts
+- **MATLAB GUI** - loads ECG records, plots ECG signal, shows a selectable time window, applies smoothing, detects QRS peaks, and computes BPM.
 
 ## Project Links
 - Word Indexer: https://github.com/WesleyRicaporte/WRABFinal
 - Low-noise ECG Circuit Design: https://github.com/<username>/ecg-circuit
-- Computer Vision Toolkit: https://github.com/WesleyRicaporte/computervision
+- Computer Vision: https://github.com/WesleyRicaporte/computervision
+- MATLAB GUI: https://github.com/WesleyRicaporte/MatlabGUI
 
 
 ## Coursework
