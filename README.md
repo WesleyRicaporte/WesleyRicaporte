@@ -27,7 +27,7 @@ I am studying Electrical and Computer Engineering through the CU Boulder and Col
 
 ## Project Links
 - Word Indexer: https://github.com/WesleyRicaporte/WRABFinal
-- Low-noise ECG Circuit Design: https://github.com/WesleyRicaporte/ecg-circuit
+- Low-noise ECG Circuit Design: https://github.com/WesleyRicaporte/ECGCircuitDesign
 - Computer Vision: https://github.com/WesleyRicaporte/computervision
 - MATLAB GUI: https://github.com/WesleyRicaporte/MatlabGUI
 
